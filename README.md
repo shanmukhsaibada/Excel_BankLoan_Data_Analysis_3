@@ -63,7 +63,7 @@ buttons, slicers, and navigation controls** for seamless exploration.
 ![Overview Dashboard](overviewdashboard.PNG)
 
 ### **2. Summary Dashboard**
-
+![Summary Dashboard](osummarydashboard.PNG)
 
 
 ------------------------------------------------------------------------
