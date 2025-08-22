@@ -15,7 +15,7 @@ buttons, slicers, and navigation controls** for seamless exploration.
 
 -   Collected and reviewed a large dataset (95k+ rows) of bank loan
     applications with details such as funded amounts, received amounts,
-    interest rates, terms, purposes, and customer profiles.\
+    interest rates, terms, purposes, and customer profiles.
 -   Cleaned and structured the dataset to remove inconsistencies,
     duplicates, and missing values.\
 -   Connected data to **MS SQL Server** for advanced querying; also
@@ -28,20 +28,20 @@ buttons, slicers, and navigation controls** for seamless exploration.
 1.  **Primary KPI Design**
     -   Designed KPIs for **total loan applications, funded amount,
         amount received, average interest rate, and average DTI
-        (Debt-to-Income ratio)**.\
+        (Debt-to-Income ratio)**.
     -   Added **month-over-month growth metrics** to track performance
         trends.
 2.  **Dashboard Layout & Visualization**
     -   Built a clean layout separating summary metrics, state-level
-        breakdowns, term distribution, and borrower profiles.\
+        breakdowns, term distribution, and borrower profiles.
     -   Created **interactive charts** for loan applications by month,
         state, employee length, purpose, and home ownership.
 3.  **Adding Primary KPI to Dashboard**
-    -   Positioned key KPIs at the top for immediate visibility.\
+    -   Positioned key KPIs at the top for immediate visibility.
     -   Used color coding to highlight performance changes.
 4.  **Secondary KPI Design & Integration**
     -   Designed KPIs to separate **Good Loans vs Bad Loans** (fully
-        paid vs charged-off loans).\
+        paid vs charged-off loans).
     -   Created visual blocks to display **funded amount, amount
         received, and interest rates by loan status**.
 5.  **Loan Status KPI Chart**
@@ -49,9 +49,9 @@ buttons, slicers, and navigation controls** for seamless exploration.
         loan percentages and totals.
 6.  **Charts & Interactivity**
     -   Implemented dynamic slicers for **loan grade, loan purpose, and
-        term**.\
+        term**.
     -   Added **switch buttons** and navigation controls to toggle
-        between dashboards.\
+        between dashboards.
     -   Used conditional formatting to highlight critical insights.
 
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ buttons, slicers, and navigation controls** for seamless exploration.
 ![Overview Dashboard](overviewdashboard.PNG)
 
 ### **2. Summary Dashboard**
-![Summary Dashboard](osummarydashboard.PNG)
+![Summary Dashboard](summarydashboard.PNG)
 
 
 ------------------------------------------------------------------------
@@ -71,15 +71,15 @@ buttons, slicers, and navigation controls** for seamless exploration.
 ## Key Insights
 
 -   **38.6k total loan applications**, with consistent month-over-month
-    growth (\~6.9%).\
+    growth (\~6.9%).
 -   **\$435.8M total funded amount** and **\$473.1M amount received**
-    indicate strong repayment performance.\
+    indicate strong repayment performance.
 -   **Good Loans:** 86.18% of applications are fully paid, totaling
-    **\$370.2M funded** and **\$435.8M received**.\
+    **\$370.2M funded** and **\$435.8M received**.
 -   **Bad Loans:** 13.82% of applications are charged off, totaling
-    **\$65.5M funded** and **\$37.3M received**.\
+    **\$65.5M funded** and **\$37.3M received**.
 -   **Loan purposes:** Debt consolidation, credit card refinancing, and
-    home improvement dominate.\
+    home improvement dominate.
 -   **Borrower profiles:** Higher applications from individuals with 10+
     years employment and homeowners with mortgages or rent.
 
@@ -104,4 +104,4 @@ buttons, slicers, and navigation controls** for seamless exploration.
 ## Author
 
 **Shanmukha Sai Bada**\
-*Data Analyst \| Excel Dashboard Developer
+Data Analyst \| Excel Dashboard Developer
