@@ -60,11 +60,11 @@ buttons, slicers, and navigation controls** for seamless exploration.
 
 ### **1. Overview Dashboard**
 
-![Overview Dashboard](overviewdasboard.PNG)
+![Overview Dashboard](overviewdashboard.PNG)
 
 ### **2. Summary Dashboard**
 
-(summarydashboard.PNG)
+
 
 ------------------------------------------------------------------------
 
