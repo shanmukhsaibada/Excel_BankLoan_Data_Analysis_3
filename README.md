@@ -60,7 +60,7 @@ buttons, slicers, and navigation controls** for seamless exploration.
 
 ### **1. Overview Dashboard**
 
-(overviewdashboard.PNG)
+![Overview Dashboard](overviewdasboard.PNG)
 
 ### **2. Summary Dashboard**
 
@@ -104,4 +104,4 @@ buttons, slicers, and navigation controls** for seamless exploration.
 ## Author
 
 **Shanmukha Sai Bada**\
-*Data Analyst \| Excel Dashboard Developer*
+*Data Analyst \| Excel Dashboard Developer
